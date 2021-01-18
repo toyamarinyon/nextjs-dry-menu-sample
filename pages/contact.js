@@ -1,9 +1,9 @@
 import Page from '../components/Page'
 
-export default function Home() {
+export default function Contact() {
   return (
     <Page>
-      <h1>This is the Home page!</h1>
+      <h1>This is the Contact page</h1>
     </Page>
   )
 }
